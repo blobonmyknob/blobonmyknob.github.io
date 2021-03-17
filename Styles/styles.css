@@ -1,1 +1,11 @@
-
+/* Background Color for all pages | Last Edited: March 17th 2021 */
+body {
+  background-color : lightblue;
+}
+/* Home Logo Position for all pages | Last Edited: March 17th 2021 */
+#homeLogo {
+  display : block;
+  margin-left : auto;
+  margin-right : auto;
+  
+}
